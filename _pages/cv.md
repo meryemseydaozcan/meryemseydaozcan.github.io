@@ -44,5 +44,5 @@ Skills
 * Software & Tools
   * SPSS, Mplus, R, Python,
     
-[Click for CV!](Meryem Seyda Ozcan CV September 2024.pdf)
+[Click for CV!](CV_Ozcan_September2024.pdf)
 
