@@ -76,30 +76,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
+  articles:
     title: 'Journal Articles'    
-1.	Oksuz, I., Özcan, M. Ş., Dost-Gözkan, A., & Kisbu, Y. (in press). Health risk behaviors of adolescents in Europe: A latent profile analysis of HBSC data from 43 countries. Journal of Adolescent Health.
-2.	Özcan, M. Ş., Goksun, T., & Kisbu Sakarya, Y. (2024). The impact of learning to code on higher-order executive functions: A systematic review of the literature. Journal of Research on Technology in Education. https://doi.org/10.1080/15391523.2024.2381231
-3.	Kisbu, Y., Özcan, M. Ş., Kuşcul, G. H., Bozok, M., Kaya, M., & Fişek, G. (2023). Fathering styles in a traditional culture and its association with marital relationship: A latent profile analysis with a nationally representative sample. Family Process, 00, 1–23. https://doi.org/10.1111/famp.12948
-4.	Akcaoglu, M., Özcan, M. Ş., & Hodges, C. B. (2023). Exploring the relationship among motivational constructs and preservice teachers’ use of computational thinking in classrooms. Computers in the Schools, 1-17. https://doi.org/10.1080/07380569.2023.2172987
-5.	Akcaoglu, M., Ozcan, M. Ş., & Dogan, S. (2023). What keeps teachers engaged during professional development? The role of interest development. Education Sciences, 13, 188. https://doi.org/10.3390/educsci13020188
-6.	Özcan, M. Ş., Çetinkaya, E., Goksun, T., & Kisbu Sakarya, Y. (2021). Does learning to code influence cognitive skills of elementary school children? Findings from a randomized experiment. British Journal of Educational Psychology, 91, 1434-1455. https://doi.org/10.1111/bjep.12429
-    title: 'Journal Articles Under Review'
-1.	Özcan, M. Ş., & Kisbu, Y. (under review). Exposure to interactive media, but at low levels, is associated with better executive functioning in children: A meta-analysis. Media Psychology.
-2.	Özcan, M. Ş., & Akcaoglu, M. (under review). Development and validation of the multidimensional interest development survey (MIS): An interest survey measuring phases and components. Instructional Science.
-3.	Sabuncuoglu, A., Özcan, M. Ş., Kisbu, Y., & Sezgin, M. (under review). Developing an open-source middle school programming environment and its curriculum for an affordable education. British Journal of Educational Technology.
-4.	Rajadhyaksha, U., Aycan, Z., Rantanen, J., Feldt, T., Cinli, D., Özcan, M. Ş., & Baskurt, A. B. (under review). Work-family interface during COVID-19: Gender and gender role ideology perspectives. Journal of Family and Economic Issues.
-  title: 'Journal Articles in Preparation'
-1.	Özcan, M. Ş., Lee, Y., & Choi, K. (in preparation). The associations between problematic media use and executive functions in middle childhood: A cross-lagged panel model.
-2.	Beers, C., Yu, S., Özcan, M. Ş., Smith, C. L., & Choi, K. (in preparation). Understanding media guilt among mothers of young children.
-3.	Özcan, M. Ş., & Choi, K. (in preparation). The role of digital media on young children’s executive functions: Testing potential moderating and mediating effects.
   conferences:
     title: 'Conference Papers'
-1.	Özcan, M. Ş., & Kisbu, Y. (2024, March 21-23). Exposure to interactive media, but at low levels, is associated with better executive functioning in children: A meta-analysis [Poster presentation]. Cognitive Developmental Society Biennial Conference 2024, Pasadena, CA.
-2.	Oksuz, I., Özcan, M. Ş., Sunmaz, N., & Kisbu, Y. (2023, September 6-8). Health risk behaviors among European adolescents: A latent profile analysis [Conference presentation abstract]. II. International Adolescence and Youth Research Congress, Kapadokya, Turkiye. https://www.egad2023.org/downloads/kongre_ozet_kitabi.pdf
-3.	Turunç, G., & Özcan, M. Ş. (2023, September 6-8). Bullying and adolescent well-being: Insights from Bronfenbrenner’s bioecological systems theory [Paper presentation abstract]. II. International Adolescence and Youth Research Congress, Kapadokya, Turkiye. https://www.egad2023.org/downloads/kongre_ozet_kitabi.pdf
-4.	Özcan, M. Ş., Turunç, G., Çetinkaya, E., & Kisbu, Y. (2022, September 8-9). Cognitive functions and academic skills in children living under conflict: Investigation of mediation mechanisms using UNICEF MICS Palestine data. [Poster presentation] Third Development Symposium in Turkiye, Istanbul, Turkiye.
-5.	Özcan, M. Ş., Çetinkaya, E., Goksun, T., & Kisbu Sakarya, Y. (2021, April 7-9). Does learning to code improve cognitive skills of elementary school children? [Poster presentation]. The Society for Research in Child Development Biennial Meeting (SRCD), virtual.
-6.	Zayim, M. Ş., & Kisbu-Sakarya, Y. (2019, March 21-23). Fathering styles in Turkey: A latent profile analysis based on a representative sample. [Poster presentation]. The Society for Research in Child Development Biennial Meeting (SRCD), Baltimore, MD.
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
