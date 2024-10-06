@@ -1,4 +1,3 @@
----
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -11,54 +10,56 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. Candidate in Developmental Psychology, Koç University (Expected completion: February 2025)
+  * Ph.D. thesis topic: The role of technology on cognitive development
+  * Advisor: Assoc. Prof. Dr. Yasemin Kisbu
+* Visiting Scholar, Virginia Tech, CoDeS Lab (2024-Present)
+  * Advisor: Dr. Koeun Choi
+* B.A. in Psychology, Bilkent University (2017)
+  * Undergraduate thesis: Do educational apps enhance learning in cardinality and number magnitude comparison abilities?
+  * Advisor: Dr. Hande Ilgaz
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Visiting Scholar (2024-Present)**
+  * CoDeS Lab, Virginia Tech
+  * Conducting research on media and cognitive development
+  * Supervisor: Dr. Koeun Choi
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Research Assistant (2017-Present)**
+  * Independent Evaluation Lab, Koç University
+  * Conducting interdisciplinary research on media use, technology, and children's development
+  * Supervisor: Assoc. Prof. Dr. Yasemin Kisbu
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* **Graduate Researcher (2022-2024)**
+  * National Science Foundation-supported project on developing a game-based computer science curriculum (NSF #2027948)
+  * Conducted research on media and executive functions in children
+  * Supervisor: Prof. Dr. Mete Akcaoglu
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Quantitative Research Methods
+  * Advanced statistical techniques (e.g., Structural Equation Modeling, Latent Profile Analysis)
+  * Meta-analysis and systematic reviews
+* Research on Media & Technology
+  * Cognitive development and learning outcomes in children
+  * Media use and executive functions
+* Software & Tools
+  * R, Python, SPSS, Mplus
+  * GitHub, Jekyll, LaTeX
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+<ul>
+  {% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}
+</ul>
+
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<ul>
+  {% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}
+</ul>
