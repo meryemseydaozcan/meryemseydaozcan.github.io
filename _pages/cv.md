@@ -47,10 +47,5 @@ Skills
 * Software & Tools
   * SPSS, Mplus, R, Python, 
 
-Publications
-======
-
-
-Talks
-======
+Click for CV!
 
