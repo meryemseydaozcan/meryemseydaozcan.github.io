@@ -28,12 +28,11 @@ Work Experience
 
 * **Research Assistant (2017-Present)**
   * Independent Evaluation Lab, Koç University
-  * Conducting interdisciplinary research on media use, technology, and children's development
+  * Conducting interdisciplinary research on children's development
   * Supervisor: Assoc. Prof. Dr. Yasemin Kisbu
 
-* **Graduate Researcher (2022-2024)**
+* **Visiting Scholar (2022)**
   * National Science Foundation-supported project on developing a game-based computer science curriculum (NSF #2027948)
-  * Conducted research on media and executive functions in children
   * Supervisor: Prof. Dr. Mete Akcaoglu
 
 Skills
@@ -43,9 +42,9 @@ Skills
   * Meta-analysis and systematic reviews
 * Research on Media & Technology
   * Cognitive development and learning outcomes in children
-  * Media use and executive functions
+  * The role of media and technology
 * Software & Tools
-  * SPSS, Mplus, R, Python, 
-
+  * SPSS, Mplus, R, Python,
+    
 Click for CV!
 
