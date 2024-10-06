@@ -45,21 +45,12 @@ Skills
   * Cognitive development and learning outcomes in children
   * Media use and executive functions
 * Software & Tools
-  * R, Python, SPSS, Mplus
-  * GitHub, Jekyll, LaTeX
+  * SPSS, Mplus, R, Python, 
 
 Publications
 ======
-<ul>
-  {% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}
-</ul>
+
 
 Talks
 ======
-<ul>
-  {% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}
-</ul>
+
