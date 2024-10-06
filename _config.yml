@@ -14,7 +14,7 @@ name                     : &name "Meryem Seyda Ozcan"
 description              : &description "I am Meryem Seyda Ozcan, a doctoral candidate in Developmental Psychology at Koç University, conducting my research in the Independent Evaluation Lab. I am also a visiting scholar at the CoDeS Lab at Virginia Tech. My research focuses on the intersection of cognitive development and technology, particularly how media and technology can enhance children's learning outcomes and cognitive skills. Throughout my academic journey, I have led interdisciplinary projects that explore how media use, contextual factors, and personalized technologies influence children’s cognitive and socioemotional development. I utilize a range of quantitative methods, including advanced statistical techniques, systematic reviews, and meta-analyses, to gain insights that can improve educational practices.
 My work is driven by a commitment to optimizing media and technology for positive developmental outcomes, providing actionable insights for parents, educators, and policymakers. I aim to bridge the gap between research and practice, creating educational solutions that empower children and foster their growth."
 url                      : https://meryemseydaozcan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/HomePage" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "meryemseydaozcan.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Meryem Seyda Ozcan"
-  pronouns         : # she/her"  
+  pronouns         : "she/her"  
   bio              : "Ph.D. Candidate at Koç University & Visiting Scholar at Virginia Tech"
   location         : "Blacksburg, VA"
   employer         : ""
@@ -38,7 +38,7 @@ author:
   orcid            : "http://orcid.org/my-orcid?orcid=0000-0002-3209-8888"
   semantic         : 
   pubmed           : 
-  researchgate     : # https://www.researchgate.net/profile/Meryem-Oezcan
+  researchgate     : "https://www.researchgate.net/profile/Meryem-Oezcan"
 
   # Repositories and software development
   bitbucket        : 
@@ -66,7 +66,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # seyda_zayim
+  twitter          : "https://twitter.com/seyda_zayim"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -102,7 +102,7 @@ publication_category:
 6.	Zayim, M. Ş., & Kisbu-Sakarya, Y. (2019, March 21-23). Fathering styles in Turkey: A latent profile analysis based on a representative sample. [Poster presentation]. The Society for Research in Child Development Biennial Meeting (SRCD), Baltimore, MD.
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
