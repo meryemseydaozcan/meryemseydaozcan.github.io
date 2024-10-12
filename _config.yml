@@ -120,12 +120,13 @@ kramdown:
   enable_coderay: false
 
 
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:path/
 # Temporarily disable collections by commenting them out
 # collections:
 #   teaching:
-#     output: true
-#     permalink: /:collection/:path/
-#   publications:
 #     output: true
 #     permalink: /:collection/:path/
 
