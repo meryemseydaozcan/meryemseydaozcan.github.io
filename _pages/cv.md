@@ -46,5 +46,6 @@ Skills
 * Software & Tools
   * SPSS, Mplus, R, Python
     
-[Click for CV!](CV_Ozcan_September2024.pdf)
+[Click for CV!](https://meryemseydaozcan.github.io/CV_Ozcan_September2024.pdf)
+
 
