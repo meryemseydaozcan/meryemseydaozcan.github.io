@@ -44,7 +44,7 @@ Skills
   * Cognitive development and learning outcomes in children
   * The role of media and technology
 * Software & Tools
-  * SPSS, Mplus, R, Python,
+  * SPSS, Mplus, R, Python
     
 [Click for CV!](CV_Ozcan_September2024.pdf)
 
