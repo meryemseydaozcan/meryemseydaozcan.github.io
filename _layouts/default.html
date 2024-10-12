@@ -1,4 +1,3 @@
----
 layout: compress
 ---
 
@@ -16,39 +15,7 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
-    <div class="container">
-      <div class="content">
-        <!-- Author profile sidebar -->
-        {% if page.author_profile %}
-          <aside class="sidebar">
-            <div class="author-profile">
-              <img src="{{ site.author.avatar }}" alt="{{ site.author.name }}">
-              <h3>{{ site.author.name }}</h3>
-              <p>{{ site.author.bio }}</p>
-              <p>Location: {{ site.author.location }}</p>
-              <ul class="social-links">
-                {% if site.author.googlescholar %}
-                  <li><a href="{{ site.author.googlescholar }}">Google Scholar</a></li>
-                {% endif %}
-                {% if site.author.orcid %}
-                  <li><a href="{{ site.author.orcid }}">ORCID</a></li>
-                {% endif %}
-                {% if site.author.researchgate %}
-                  <li><a href="{{ site.author.researchgate }}">ResearchGate</a></li>
-                {% endif %}
-                {% if site.author.twitter %}
-                  <li><a href="{{ site.author.twitter }}">Twitter</a></li>
-                {% endif %}
-              </ul>
-              <p><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
-            </div>
-          </aside>
-        {% endif %}
-
-        <!-- Main content -->
-        {{ content }}
-      </div>
-    </div>
+    {{ content }}
 
     <div class="page__footer">
       <footer>
