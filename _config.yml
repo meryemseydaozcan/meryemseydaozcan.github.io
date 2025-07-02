@@ -19,7 +19,7 @@ repository               : "meryemseydaozcan.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
   # Biographic information
-  avatar           : "profile 2.jpeg"
+  avatar           : "photo.jpeg"
   name             : "Meryem Seyda Ozcan"
   pronouns         : "she/her"  
   bio              : "Ph.D. Candidate at Koç University & Visiting Scholar at Virginia Tech"
