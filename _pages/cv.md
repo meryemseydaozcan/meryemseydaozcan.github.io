@@ -8,6 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-[Click for CV!](https://meryemseydaozcan.github.io/MeryemSeydaOzcan_CV_September_2025.pdf)
+[Click for CV!](https://docs.google.com/document/d/1eeNGwN7tQ-C4NC0S10ePAO905aVqgTZU/edit)
 
 
