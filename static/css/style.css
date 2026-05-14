@@ -1033,27 +1033,27 @@ p { color: var(--ink-soft); margin: 0 0 16px 0; }
   .timeline-year { font-size: 12px; }
   h2 { font-size: 30px; }
 
-  /* Mobile top nav: stack brand on top, horizontally scrollable links */
+  /* Mobile top nav: brand on top centred, horizontally scrollable link row */
   .topnav-inner {
     flex-direction: column;
-    align-items: stretch;
-    gap: 10px;
-    padding-top: 12px;
-    padding-bottom: 10px;
+    align-items: center;
+    gap: 6px;
+    padding-top: 10px;
+    padding-bottom: 8px;
   }
   .topnav-brand {
+    font-size: 17px;
     text-align: center;
-    font-size: 18px;
   }
   .topnav-links {
+    display: flex !important;
+    width: 100%;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
     scrollbar-width: none;
-    padding: 2px 4px 6px 4px;
-    margin: 0 -28px;
-    padding-left: 28px;
-    padding-right: 28px;
     justify-content: flex-start;
+    flex-wrap: nowrap;
+    padding: 2px 0;
     gap: 2px;
   }
   .topnav-links::-webkit-scrollbar { display: none; }
@@ -1063,6 +1063,11 @@ p { color: var(--ink-soft); margin: 0 0 16px 0; }
     font-size: 13px;
     white-space: nowrap;
   }
+}
+
+@media (max-width: 600px) {
+  .topnav-brand { font-size: 15px; }
+  .topnav-links a { padding: 5px 10px; font-size: 12.5px; }
 }
 
 @media (max-width: 600px) {
