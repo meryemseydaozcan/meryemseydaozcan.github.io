@@ -1031,8 +1031,38 @@ p { color: var(--ink-soft); margin: 0 0 16px 0; }
   .timeline-item { grid-template-columns: 60px 1fr; gap: 20px; }
   .timeline-item::before { left: 63px; }
   .timeline-year { font-size: 12px; }
-  .topnav-links { display: none; }
   h2 { font-size: 30px; }
+
+  /* Mobile top nav: stack brand on top, horizontally scrollable links */
+  .topnav-inner {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+    padding-top: 12px;
+    padding-bottom: 10px;
+  }
+  .topnav-brand {
+    text-align: center;
+    font-size: 18px;
+  }
+  .topnav-links {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    padding: 2px 4px 6px 4px;
+    margin: 0 -28px;
+    padding-left: 28px;
+    padding-right: 28px;
+    justify-content: flex-start;
+    gap: 2px;
+  }
+  .topnav-links::-webkit-scrollbar { display: none; }
+  .topnav-links a {
+    flex-shrink: 0;
+    padding: 6px 12px;
+    font-size: 13px;
+    white-space: nowrap;
+  }
 }
 
 @media (max-width: 600px) {
